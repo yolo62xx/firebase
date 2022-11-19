@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /	
+Disallow: /admin
+Disallow: /assets/css
+Disallow: /assets/js
+Disallow: /assets/images
+Disallow: /assets
+Disallow: /assets
+Disallow: /config
+Disallow: /core
+Disallow: /core/security
+Disallow: /logs
+Disallow: /result
